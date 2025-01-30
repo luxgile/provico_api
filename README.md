@@ -2,7 +2,7 @@
 Provico is a server backend designed to submit and store project ideas. Its main goal is to provide 
 different options if you are stuck with your next project or are looking for inspiration.
 
-**Important**
+**Important**:
 Provico is meant to be a learning project to start getting used to both backend development and the Go language.
 As such I would not recommend using this server in a profesional matter, or do so knowing what you are doing.
 
